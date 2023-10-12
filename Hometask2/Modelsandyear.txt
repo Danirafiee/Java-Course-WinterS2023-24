@@ -1,0 +1,2 @@
+id: 103, Brand: Benz, Model: Gclass, Year: 2005, Color: Red, Price: 25000.0, Registeration Number: LPL212
+id: 104, Brand: Benz, Model: Gclass, Year: 2009, Color: White, Price: 15000.0, Registeration Number: XSA256

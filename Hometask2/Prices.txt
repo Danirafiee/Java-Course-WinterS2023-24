@@ -1,0 +1,2 @@
+id: 101, Brand: BMW, Model: 830, Year: 2021, Color: Blue, Price: 35000.0, Registeration Number: DJF215
+id: 105, Brand: Benz, Model: Eclass, Year: 2021, Color: Black, Price: 37000.0, Registeration Number: SSA256

@@ -1,0 +1,3 @@
+id: 103, Brand: Benz, Model: Gclass, Year: 2005, Color: Red, Price: 25000.0, Registeration Number: LPL212
+id: 104, Brand: Benz, Model: Gclass, Year: 2009, Color: White, Price: 15000.0, Registeration Number: XSA256
+id: 105, Brand: Benz, Model: Eclass, Year: 2021, Color: Black, Price: 37000.0, Registeration Number: SSA256
