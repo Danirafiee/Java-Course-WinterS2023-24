@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BEV
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BEV\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=product\ eng
+comment1.target=BEV(Manufacture,\ Engine)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ BEV\r\n
+numComments=2
